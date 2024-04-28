@@ -23,7 +23,7 @@ def Orga():
         elif file.endswith('.png') or file.endswith('.jpg') or file.endswith('.jpeg') or file.endswith('.gif'):
             shutil.move(file, 'images')
 
-        elif file.endswith('.doc') or file.endswith('.docx') or file.endswith('.txt'):
+        elif file.endswith('.doc') or file.endswith('.docx') or file.endswith('.txt') or file.endswith('.odt'):
             shutil.move(file, 'documents')
 
         elif file.endswith('.zip') or file.endswith('.rar') or file.endswith('.7z'):
@@ -43,6 +43,9 @@ def Orga():
 
 folder()
 Orga()
+
+
+
 
 
 
