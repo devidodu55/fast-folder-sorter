@@ -16,7 +16,7 @@
 <h4>Contributions are welcome! If you have any ideas for improvement or corrections, please open a pull request.</h4>
 
 
-<h2>⚠️ ATTENTION ⚠️</h2>
+<h2>⚠️ WARNING ⚠️</h2>
 
 <h3>Your path must point to a folder and not a file</h3>
 
